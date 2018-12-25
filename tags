@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/45968eff/
+Customization	README.md	/^## Customization$/;"	s
+Installation	README.md	/^## Installation$/;"	s
+License	README.md	/^## License$/;"	s
+airline#extensions#formatting#apply	autoload/airline/extensions/formatting.vim	/^function! airline#extensions#formatting#apply(...)$/;"	f
+airline#extensions#formatting#get_formatting	autoload/airline/extensions/formatting.vim	/^function! airline#extensions#formatting#get_formatting()$/;"	f
+airline#extensions#formatting#init	autoload/airline/extensions/formatting.vim	/^function! airline#extensions#formatting#init(ext)$/;"	f
+g:airline#extensions#formatting#show_shiftwidth	autoload/airline/extensions/formatting.vim	/^  let g:airline#extensions#formatting#show_shiftwidth = 1$/;"	v
+g:airline#extensions#formatting#space_glyph	autoload/airline/extensions/formatting.vim	/^  let g:airline#extensions#formatting#space_glyph = '·'$/;"	v
+g:airline#extensions#formatting#tab_glyph	autoload/airline/extensions/formatting.vim	/^  let g:airline#extensions#formatting#tab_glyph = '→'$/;"	v
+g:airline#extensions#formatting#text_glyph	autoload/airline/extensions/formatting.vim	/^  let g:airline#extensions#formatting#text_glyph = '≡'$/;"	v
+g:airline#extensions#formatting#wrap_no_pencil	autoload/airline/extensions/formatting.vim	/^  let g:airline#extensions#formatting#wrap_no_pencil = '¶'$/;"	v
+s:spc	autoload/airline/extensions/formatting.vim	/^let s:spc = g:airline_symbols.space$/;"	v
+vim-airline-formatting	README.md	/^# vim-airline-formatting$/;"	c
